@@ -1,0 +1,8 @@
+{
+  "shop" : {
+      "currency": "INR",
+      "language": "hi-IN",
+      "weightUnit": "ltr",
+      "homeUrl": "http://localhost:3000" 
+  }
+}
